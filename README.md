@@ -6,6 +6,7 @@ Department: Computer Science & Engineering
 Team: 5
 Author: 陳勇瑜、葉日豐
 Complete date: 12/1/16
+
 一拳通 OnePunch Chat
 Introduction:
 	OnePunch Chat is a MFC-based windows program, which is constructed in a master-slave structure. Furthermore, we implement “CAsyncSocket” class, which is a library of Windows Socket provided by “Microsoft Foundation Classes”. It is inherited from “CObject" Class in a hierarchical relationship.
