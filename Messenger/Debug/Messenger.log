@@ -1,0 +1,34 @@
+﻿已經開始建置於 2016/1/14 上午 02:45:52。
+     1>節點 2 (Build 目標) 上的專案 "C:\Users\dicky0626\Desktop\Final\Messenger\Messenger.vcxproj"。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\Messenger.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Messenger.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ChatDlg.cpp ExtRichEdit.cpp FriendList.cpp LoginDlg.cpp Messenger.cpp MessengerDlg.cpp NewsDlg.cpp PictureEx.cpp mySocketClient.cpp
+         正在略過... (未偵測到相關變更)
+         mySocketClient.cpp
+         PictureEx.cpp
+         NewsDlg.cpp
+         MessengerDlg.cpp
+         Messenger.cpp
+         LoginDlg.cpp
+         FriendList.cpp
+         ExtRichEdit.cpp
+         ChatDlg.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\dicky0626\Desktop\Final\Messenger\Debug\Messenger.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\dicky0626\Desktop\Final\Messenger\Debug\Messenger.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\dicky0626\Desktop\Final\Messenger\Debug\Messenger.lib" /MACHINE:X86 Debug\Messenger.res
+         Debug\ChatDlg.obj
+         Debug\ExtRichEdit.obj
+         Debug\FriendList.obj
+         Debug\LoginDlg.obj
+         Debug\Messenger.obj
+         Debug\MessengerDlg.obj
+         Debug\mySocketClient.obj
+         Debug\NewsDlg.obj
+         Debug\PictureEx.obj
+         Debug\stdafx.obj
+         Messenger.vcxproj -> C:\Users\dicky0626\Desktop\Final\Messenger\Debug\Messenger.exe
+     1>專案 "C:\Users\dicky0626\Desktop\Final\Messenger\Messenger.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:02.69

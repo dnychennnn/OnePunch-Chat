@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CChatDlg">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="CChatDlg::__unnamed_enum_0003_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ChatDlg.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>IGJgIQFAAEBIAAiAKhEIQKGAQEAoBBEBKQgIAAzQEDE=</HashCode>
+      <FileName>ChatDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CExtRichEdit">
+    <Position X="5" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAMABAgAAAAAAABQkAIEAEAAAAIAAAAAAAA=</HashCode>
+      <FileName>ExtRichEdit.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CFriendList">
+    <Position X="2.75" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABACCAAABAAAUAAEABAAAAAAAAAEAAAQAEAAAAAAA=</HashCode>
+      <FileName>FriendList.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LoginDlg">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="LoginDlg::__unnamed_enum_0009_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>LoginDlg.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAQBgAAJAAAQAIAAAAAAAIAAIECAAAAAA=</HashCode>
+      <FileName>LoginDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMessengerApp" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Messenger.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMessengerDlg" BaseTypeListCollapsed="true">
+    <Position X="5" Y="1.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="CMessengerDlg::__unnamed_enum_000d_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MessengerDlg.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>EMSAgCsAAAA4IKwEAJIgCABQABgIARQAQEIGAAAQEAQ=</HashCode>
+      <FileName>MessengerDlg.h</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="mySocketClient">
+    <Position X="7.75" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAIAQIAAAAAAAAABAAAAACAAAAAIACAAAAAA=</HashCode>
+      <FileName>mySocketClient.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewsDlg">
+    <Position X="7.5" Y="6" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="NewsDlg::__unnamed_enum_0011_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>NewsDlg.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAABJAKAAAAAAAAAAAAAEQAgCAAAAA=</HashCode>
+      <FileName>NewsDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPictureEx">
+    <Position X="10.5" Y="5.75" Width="1.5" />
+    <NestedTypes>
+      <Struct Name="CPictureEx::TGIFPlainTextExt" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>PictureEx.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Enum Name="CPictureEx::IDPackedValues" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>PictureEx.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="CPictureEx::ControlExtValues" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>PictureEx.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Struct Name="CPictureEx::TGIFAppExtension" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>PictureEx.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="CPictureEx::TGIFLSDescriptor" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>PictureEx.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="CPictureEx::TGIFHeader" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>PictureEx.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Enum Name="CPictureEx::LSDPackedValues" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>PictureEx.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Struct Name="CPictureEx::TGIFControlExt" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>PictureEx.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="CPictureEx::TFrame" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>PictureEx.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Enum Name="CPictureEx::GIFBlockTypes" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>PictureEx.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Struct Name="CPictureEx::TGIFImageDescriptor" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>PictureEx.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="CPictureEx::TGIFCommentExt" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>PictureEx.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>KACFwQGAMgBWYlCQABIAgwggAAYBEUAAISAAAgQwLCQ=</HashCode>
+      <FileName>PictureEx.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="_LISTBOX_INFO_" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAACAAgABACAAAAAQACAAEIAAA=</HashCode>
+      <FileName>FriendList.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Typedef Name="LISTBOX_INFO" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FriendList.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="PLISTBOX_INFO" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FriendList.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Interface Name="IMySocketClient" Collapsed="true">
+    <Position X="0.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>mySocketClient.h</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Microsoft JhengHei" Size="9.05" />
+</ClassDiagram>
