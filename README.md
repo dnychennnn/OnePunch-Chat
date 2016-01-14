@@ -16,13 +16,15 @@ Complete date: 12/1/16
 
 
 一拳通 OnePunch Chat
-
+**********************
 Introduction:
-	OnePunch Chat is a MFC-based windows program, which is constructed in a master-slave structure. Furthermore, we implement “CAsyncSocket” class, which is a library of Windows Socket provided by “Microsoft Foundation Classes”. It is inherited from “CObject" Class in a hierarchical relationship.
+==========
+OnePunch Chat is a MFC-based windows program, which is constructed in a master-slave structure. Furthermore, we implement “CAsyncSocket” class, which is a library of Windows Socket provided by “Microsoft Foundation Classes”. It is inherited from “CObject" Class in a hierarchical relationship.
 	OnePunch Chat mainly includes two programs: the “Server” and the “Client”. With respect to the Server, it is basically used to setup as a web server to listen the incoming knocking to the decided port. Also, it is in charge of the data distribution to the clients as well as the handling of some errors, debugs, and information sent from clients. 
 	The other way around, the “Client”. This client side program is the primary user interface that we provide to the users. In the program, three dialogs will be shown to the users, user list, chat room, and login dialogs. Once the inputting IP address and port number in the client program are identical with the server one, the client will connect to the sever and the chat starts!
-
-Feature:	
+****************
+Feature:
+==========
 Two of the Server and Client programs are implemented in MFC which is not depend on .NET framework.
 In Server, different types of log information are colored different ways to be more specific to understand.
 In Client, we provide several status choices for the users:
@@ -30,59 +32,62 @@ Several profile pictures for user to be on the status list.
 You can input your current mood which will be shown on everyone’s user list dialog.
 We also show if your friends are currently on line.
 
-Goal:
+*********************
 
+Goal:
+=======
 
 To be straight, we hope that we can build our project as close as to the Yahoo Messenger. Yahoo Messenger is the young memory of two of us, and we would like to make good use of this rare opportunity to dig into the whole background knowledge of the Yahoo Messenger and further understand the building procedure and finally implement a totally brand new version on our own. 
-In the Function, we hope that we can complete the following functions:
-Group chat: 
+In the Function, we hope that we can complete the following functions
+* Group chat:
 There is a main chatting dialog with the online user list beside, and by logging into the server 		and sending the typing stuffs, everyone can simultaneously chat from and to whom is currently connecting to the server by the program.
-Private chat:
+* Private chat:
 By clicking the list control of the friend list, you can chat with the specific friend of you privately. 
-Send media:
+* Send media:
 We hope that we can achieve the media transmission by socket programming. (NOT COMPLETE)
-Multimedia streaming:
+* Multimedia streaming:
 The ultimate goal of our project is to have the live audio chatting and video chatting function, and even live broadcasting, in order to compete with the mighty company of messenger at the moment, such as: Skype, Facebook … and so on. (NOT COMPLETE)
-
-Bountifully innovative UI/UX design:
+* Boutifully innovative UI/UX design:
 This is quite a challenging area that we’re neither a designer nor taking any corresponding classes. However, we tried our best to critique ourselves whether the software is user-friendly or not, rendering it a better message software than others.
+****************
 
-Author & Member contribution:
+* Author & Member contribution:
+=============
 
-104 Windows Programming Class 5th team:
+* 104 Windows Programming Class 5th team
  
-4101056034 資工三 陳勇瑜100%:
-*Mainly Logical part of the project:
-**Define the data structure of the packets:
-***login
-***user information
-***Socket programming:
-***connect
-***bind
-***receive
-***send
-***listen
-***accept
-***Group chatting function
-***Message delivering between dialogs
-***postmessage()
-***Slides Making
+4101056034 資工三 陳勇瑜100%
+* Mainly Logical part of the project
+	* Define the data structure of the packets
+		* login
+		* user information
+		* Socket programming
+		* connect
+		* bind
+		* receive
+		* send
+		* listen
+		* accept
+*Group chatting function
+	*Message delivering between dialogs
+	*postmessage()
+	*Slides Making
 
-4102056015 資工三 葉日豐100%:
-*Both Logical part and User Interface part of the project:
-**UI design including:
-***login dialog
-***chatting dialog
-***user list and status dialog
-**Logic:
-***data structure of 
-***is online
-***profile picture
-***current mood
+4102056015 資工三 葉日豐100%
+Both Logical part and User Interface part of the project
+UI design including
+login dialog
+chatting dialog
+user list and status dialog
+Logic
+data structure of 
+is online
+profile picture
+current mood
 
 Completed on 2016/1/12
 
-Code Description:
+Code Description
 
 
 
