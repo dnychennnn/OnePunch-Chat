@@ -1,13 +1,22 @@
 # OnePunch-Chat
+
 2015年中興大學資工系 視窗程式設計課程期末project -- 一拳通（OnePunch Chat）
+
 Course: Windows Programming
+
 School: National Chung Hsing University
+
 Department: Computer Science & Engineering
+
 Team: 5
+
 Author: 陳勇瑜、葉日豐
+
 Complete date: 12/1/16
 
+
 一拳通 OnePunch Chat
+
 Introduction:
 	OnePunch Chat is a MFC-based windows program, which is constructed in a master-slave structure. Furthermore, we implement “CAsyncSocket” class, which is a library of Windows Socket provided by “Microsoft Foundation Classes”. It is inherited from “CObject" Class in a hierarchical relationship.
 	OnePunch Chat mainly includes two programs: the “Server” and the “Client”. With respect to the Server, it is basically used to setup as a web server to listen the incoming knocking to the decided port. Also, it is in charge of the data distribution to the clients as well as the handling of some errors, debugs, and information sent from clients. 
