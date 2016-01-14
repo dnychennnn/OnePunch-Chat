@@ -52,33 +52,33 @@ Author & Member contribution:
 104 Windows Programming Class 5th team:
  
 4101056034 資工三 陳勇瑜100%:
-Mainly Logical part of the project:
-Define the data structure of the packets:
-login
-user information
-Socket programming:
-connect
-bind
-receive
-send
-listen
-accept
-Group chatting function
-Message delivering between dialogs
-postmessage()
-Slides Making
+*Mainly Logical part of the project:
+**Define the data structure of the packets:
+***login
+***user information
+***Socket programming:
+***connect
+***bind
+***receive
+***send
+***listen
+***accept
+***Group chatting function
+***Message delivering between dialogs
+***postmessage()
+***Slides Making
 
 4102056015 資工三 葉日豐100%:
-Both Logical part and User Interface part of the project:
-UI design including:
-login dialog
-chatting dialog
-user list and status dialog
-Logic:
-data structure of 
-is online
-profile picture
-current mood
+*Both Logical part and User Interface part of the project:
+**UI design including:
+***login dialog
+***chatting dialog
+***user list and status dialog
+**Logic:
+***data structure of 
+***is online
+***profile picture
+***current mood
 
 Completed on 2016/1/12
 
