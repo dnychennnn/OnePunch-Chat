@@ -31,6 +31,7 @@ You can input your current mood which will be shown on everyone’s user list di
 We also show if your friends are currently on line.
 
 Goal:
+
 	To be straight, we hope that we can build our project as close as to the Yahoo Messenger. Yahoo Messenger is the young memory of two of us, and we would like to make good use of this rare opportunity to dig into the whole background knowledge of the Yahoo Messenger and further understand the building procedure and finally implement a totally brand new version on our own. 
 	In the Function, we hope that we can complete the following functions:
 Group chat: 
